@@ -3,6 +3,7 @@
 <div style="padding: 15px"><br>
   <figure><img align="center" alt="William-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></figure>
   <figure><img align="center" alt="William-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></figure>
+    <figure><img align="center" alt="William-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></figure>
   <figure><img align="center" alt="William-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></figure>
   <figure><img align="center" alt="William-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></figure>
   <figure><img align="center" alt="William-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></figure>
